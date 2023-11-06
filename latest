@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "this is a pavann khumar"
+ls -lrt
+sleep 5
